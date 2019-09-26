@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.longtailvideo.jwplayer:jwplayer-common:3.7.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1fd9316de4169a4db78bbb221a2f00c/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1fd9316de4169a4db78bbb221a2f00c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1fd9316de4169a4db78bbb221a2f00c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

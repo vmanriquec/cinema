@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_peliculas"
+            android:icon="@drawable/ic_movie_black_24dp"
+            android:title="Peliculas" />
+        <item
+            android:id="@+id/nav_series"
+            android:icon="@drawable/ic_tv_black_24dp"
+            android:title="Series" />
+        <item
+            android:id="@+id/nav_topm"
+            android:icon="@drawable/ic_movie_filter_black_24dp"
+            android:title="Top Películas" />
+
+
+        <item
+            android:id="@+id/nav_premium"
+            android:icon="@drawable/ic_lock_open_black_24dp"
+            android:title="Premium" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
